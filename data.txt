@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A1098027220%2C%22first_name%22%3A%22The%20Manta%22%2C%22last_name%22%3A%22%24CFI%22%2C%22username%22%3A%22Mods1234%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=-6419256207018725083&chat_type=sender&auth_date=1720599212&hash=c3c7c83135bbe5b02dab4d93ab450752e8d1b89dde1692034c461f0a3c2b8bce
